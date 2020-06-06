@@ -1,0 +1,2 @@
+rootProject.name='Programing Quote'
+include ':app'

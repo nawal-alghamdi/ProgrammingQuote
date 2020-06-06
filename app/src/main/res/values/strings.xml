@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Programing Quote</string>
+    <string name="no_internet">"Please connect to the internet to see new quote"</string>
+</resources>
